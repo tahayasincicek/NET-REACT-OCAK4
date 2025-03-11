@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\bin\Debug\net8.0\Sum of numbers.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\bin\Debug\net8.0\Sum of numbers.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\bin\Debug\net8.0\Sum of numbers.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\bin\Debug\net8.0\Sum of numbers.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\bin\Debug\net8.0\Sum of numbers.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\refint\Sum of numbers.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\Sum of numbers.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\Ocak4\Sum of numbers\Sum of numbers\obj\Debug\net8.0\ref\Sum of numbers.dll
